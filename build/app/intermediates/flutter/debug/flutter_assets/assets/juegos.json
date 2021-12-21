@@ -1,0 +1,25 @@
+{
+    "juegos" : [
+      {
+          "icono" : "gtav_icon",
+          "texto": "GTA V"
+      },
+      {
+          "icono" : "gtaiv_icon",
+          "texto": "GTA IV"
+      },
+      {
+          "icono" : "fifa22_icon",
+          "texto": "FIFA 22"
+      },
+      {
+          "icono" : "wwe_icon",
+          "texto": "WWE 2K22"
+      },
+      {
+          "icono" : "dbx2_icon",
+          "texto": "DRAGON BALL XENOVERSE 2"
+      }
+      
+    ]
+  } 
